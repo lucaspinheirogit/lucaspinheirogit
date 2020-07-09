@@ -1,5 +1,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-pinheiro-oficial/)](https://www.linkedin.com/in/lucas-pinheiro-oficial/)
+
+[![Medium Badge](https://img.shields.io/badge/-Medium?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@lucas_pinheiro)](https://medium.com/@lucas_pinheiro)
+
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucaspinheiroifsul@gmail.com)](mailto:lucaspinheiroifsul@gmail.com)
+
 # Lucas Pinheiro 😁
 Fullstack JavaScript Developer
 
