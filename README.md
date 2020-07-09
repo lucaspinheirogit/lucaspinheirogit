@@ -14,6 +14,9 @@ I'm trying to bring, through the technology world, practicality and simplicity t
 - Node
 - TypeScript
 
+## 💻 Portfolio
+[Check it out](https://lucaspinheirogit.github.io/lucas-pinheiro/)
+
 <!--
 **lucaspinheirogit/lucaspinheirogit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
