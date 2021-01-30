@@ -3,7 +3,7 @@
 [![Medium Badge](http://img.shields.io/badge/-Medium?style=flat-square&label=Medium&logo=medium&logoColor=white&color=white&link=https://medium.com/@lucas_pinheiro)](https://medium.com/@lucas_pinheiro)
 
 # Lucas Pinheiro 😁
-Full stack JavaScript Developer
+Full Stack Engineer
 
 ## 🧐 About
 I'm trying to bring, through the technology world, practicality and simplicity to the many people we impact with each line of code.
@@ -13,6 +13,8 @@ I'm trying to bring, through the technology world, practicality and simplicity t
 - React Native
 - Node
 - TypeScript
+- Ruby
+- Ruby on Rails
 
 ## 💻 Portfolio
 [Check it out](https://lucaspinheirogit.github.io/lucas-pinheiro/)
