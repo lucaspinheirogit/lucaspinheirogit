@@ -14,6 +14,8 @@ I believe great software should make life easier, not more complicated.
 - **JavaScript & TypeScript**  
 - **React & React Native**  
 - **Node.js**
+- **Python**
+- **Ruby & Ruby on Rails**
 
 ## 💻 Portfolio
 [Check it out](https://lucaspinheirogit.github.io/lucas-pinheiro/)
