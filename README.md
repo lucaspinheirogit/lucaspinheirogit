@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucaspinheiroifsul@gmail.com)](mailto:lucaspinheiroifsul@gmail.com)
 [![Medium Badge](https://img.shields.io/badge/Medium-%2312100E.svg?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@lucas_pinheiro)
 
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-%2300C896.svg?style=flat-square&logo=googlechrome&logoColor=white)](https://lucaspinheirogit.github.io/lucas-pinheiro/)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-%23167C80.svg?style=flat-square&logo=googlechrome&logoColor=white)](https://lucaspinheirogit.github.io/lucas-pinheiro/)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-pinheiro-oficial/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:lucaspinheiroifsul@gmail.com)
 [![Medium Badge](https://img.shields.io/badge/Medium-white?style=flat-square&logo=medium&logoColor=black)](https://medium.com/@lucas_pinheiro)
