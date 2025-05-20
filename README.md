@@ -7,9 +7,10 @@
 **Senior Software Engineer**
 
 ## 🧐 About  
-Passionate about using technology and AI to craft practical, simple solutions that create real-world impact. I believe great software should make life easier, not more complicated.
+Passionate about using technology and AI to craft practical, simple solutions that create real-world impact.
+I believe great software should make life easier, not more complicated.
 
-## ⚡ Main Technologies  
+## ⚡ Main Technologies
 - **JavaScript & TypeScript**  
 - **React & React Native**  
 - **Node.js**
