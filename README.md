@@ -2,23 +2,19 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucaspinheiroifsul@gmail.com)](mailto:lucaspinheiroifsul@gmail.com)
 [![Medium Badge](http://img.shields.io/badge/-Medium?style=flat-square&label=Medium&logo=medium&logoColor=white&color=white&link=https://medium.com/@lucas_pinheiro)](https://medium.com/@lucas_pinheiro)
 
-# Lucas Pinheiro 😁
-Senior Software Engineer
+# Lucas Pinheiro 😎  
+**Senior Software Engineer**
 
-## 🧐 About
-I'm trying to bring, through the technology world, practicality and simplicity to the many people we impact with each line of code.
+## 🧐 About  
+Passionate about using technology and AI to craft practical, simple solutions that create real-world impact. I believe great software should make life easier, not more complicated.
 
-## ⚡ Technologies
-- React
-- React Native
-- Node
-- JavaScript
-- TypeScript
+## ⚡ Main Technologies  
+- **JavaScript & TypeScript**  
+- **React & React Native**  
+- **Node.js**
 
-<!--
 ## 💻 Portfolio
 [Check it out](https://lucaspinheirogit.github.io/lucas-pinheiro/)
--->
 
 <!--
 **lucaspinheirogit/lucaspinheirogit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
